@@ -91,17 +91,17 @@ Maintenant que nous avons compris ce que nous voulons que T-API fasse pour nous,
     <th>Description</th>
   </tr>
   <tr>
-    <td>/the</td>
+    <td>/tea</td>
     <td>GET</td>
     <td>affiche tous les thés</td>
   </tr>
   <tr>
-    <td>/the</td>
+    <td>/tea</td>
     <td>POST</td>
     <td>Cree un nouveau thé</td>
   </tr>
 <tr>
-    <td>/the</td>
+    <td>/tea</td>
     <td>DELETE</td>
     <td>supprime tous les thés</td>
   </tr>
