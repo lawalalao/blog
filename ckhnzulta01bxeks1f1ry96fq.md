@@ -2,7 +2,7 @@
 
 *Invite: Que diriez-vous à votre ancien profil débutant?*
 
-(Pas les mots exacts, mais vous comprenez mon point.)
+(Pas les mots exacts, mais vous comprendrez mon point.)
 
 **Cher développeur débutant**,
 
