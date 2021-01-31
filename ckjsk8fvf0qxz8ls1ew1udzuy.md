@@ -1,4 +1,4 @@
-## les méthodes map(), filter() et reduction()
+## les méthodes map(), filter() et reduce()
 
 Ce sont quelques méthodes qui sont très utilisées dans le développement et les connaître est un must. Alors commençons!
 
