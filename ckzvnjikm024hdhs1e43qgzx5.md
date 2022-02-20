@@ -26,14 +26,32 @@ Essayons un exemple : comment allez-vous préparer une tasse de café ?
 
 J'irai en premier :
 
+
+- 
 Étape 1 : Prenez une tasse à café . 
+
+- 
 Étape 2 : Lavez la tasse.
- Étape 3 : Procurez-vous une bouilloire.
- Étape 4 : Mettez de l'eau dans la bouilloire.
- Étape 5 : Branchez la bouilloire et portez l'eau à ébullition.
- Étape 6 : Éteignez la prise et débranchez la bouilloire. 
+ 
+- 
+Étape 3 : Procurez-vous une bouilloire.
+
+- 
+Étape 4 : Mettez de l'eau dans la bouilloire.
+ 
+- 
+Étape 5 : Branchez la bouilloire et portez l'eau à ébullition.
+ 
+- 
+Étape 6 : Éteignez la prise et débranchez la bouilloire. 
+
+- 
 Étape 7 : Mettez deux cuillerées de café dans une tasse. 
+
+- 
 Étape 8 : Versez de l'eau pour remplir ⅔ de la tasse.
+
+- 
  Étape 9 : Servez votre café.
 
 Notez que vous devez également garder à l'esprit si la personne a une cafetière, si la personne a besoin d'utiliser des grains de café ou si elle a juste dû verser de la poudre dans une tasse et faire une tasse. Dans ce cas, votre algorithme peut avoir des boucles car toute personne l'utilisant peut avoir besoin de répéter certaines étapes ou de revenir en arrière pour vérifier certaines étapes avant de continuer.
