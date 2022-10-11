@@ -1,4 +1,4 @@
-## Comment envoyer un e-mail en utilisant JS sans backend ?
+# Comment envoyer un e-mail en utilisant JS sans backend ?
 
 Dans le monde d'aujourd'hui, la plupart des entreprises ont leur propre site Web. Dans certains cas, comme un formulaire soumis par l'utilisateur, un formulaire de contact, etc., nous pouvons avoir besoin d'envoyer un e-mail à partir de notre site Web et chaque site Web que nous développons n'a pas de backend dédié. Dans cet article nous allon ensemble voir comment envoyer un email en utilisant **SmtpJS et vanilla javascript.**
 
