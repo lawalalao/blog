@@ -146,7 +146,7 @@ Faites entrer l'argent. Avec un MVP sur le marché et un marketing suffisant, vo
 ### Exemple de produit minimum viable
 Lighticians Apollo Control
 
-Le projet Apollo Control de Lighticians visait à permettre la communication avec Apollo Bridge - un routeur sans fil qui se connecte aux appareils d'éclairage. En collaboration avec Lighticians, nous avons travaillé sur un MVP qui permettrait de connecter le matériel aux appareils mobiles.
+Le projet Apollo Control de Lighticians visait à permettre la communication avec Apollo Bridge - un routeur sans fil qui se connecte aux appareils d'éclairage. En collaboration avec Lighticians, une équipe a travaillé sur un MVP qui permettrait de connecter le matériel aux appareils mobiles.
 
 Le produit minimum viable pour iOS que nous avons créé permet aux professionnels de l'éclairage de gérer les lumières sur le plateau de tournage à partir d'une application mobile.
 
