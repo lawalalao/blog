@@ -1,4 +1,13 @@
-# Comment créer un  readme github attrayant
+---
+title: "Comment créer un  readme github attrayant"
+seoDescription: "Avez vous déjà eu l'idée de créer votre Readme GitHub?? Je suppose que OUI et c'est une très bonne idée"
+datePublished: Mon Feb 27 2023 21:15:15 GMT+0000 (Coordinated Universal Time)
+cuid: clenbjp0t000609l9f8ld46y6
+slug: comment-creer-un-readme-github-attrayant
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677531342046/cac2f473-7578-4cdf-8788-3a27bab8f0f1.png
+tags: github, beginners, tips-for-developers
+
+---
 
 Avez vous déjà eu l'idée de créer votre Readme GitHub?? Je suppose que la réponse est OUI et c'est une très bonne idée car il s'agit d'une fonctionnalité très intéressante de GitHub qui vous permet d'ajouter du contenu à votre profil. Toute personne qui visite votre profil GitHub aura une idée de qui vous êtes et de toute autre information que vous souhaitez partager, comme votre travail, votre expérience, vos projets, etc.
 
