@@ -3,7 +3,7 @@ title: "Plongez dans le Monde de l'Architecture Logicielle : Découvrez mon Nouv
 datePublished: Sat Sep 02 2023 09:20:59 GMT+0000 (Coordinated Universal Time)
 cuid: clm1tdfjb000209ji4fse5dxy
 slug: plongez-dans-le-monde-de-larchitecture-logicielle-decouvrez-mon-nouveau-livre
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693646421999/a4bf1411-e09b-40d0-aabb-53fb55120405.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693646523870/fc83c36b-63cc-44bb-bd1e-3b0938552ba9.jpeg
 tags: software-architecture, architecture, beginners, software-engineering
 
 ---
