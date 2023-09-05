@@ -35,7 +35,7 @@ Je m'engage à rendre cet ouvrage évolutif. Vous n'aurez à payer qu'une seule 
 
 ## Comment obtenir votre exemplaire :
 
-Pour acheter votre exemplaire dès maintenant et plonger dans l'univers de l'architecture logicielle, suivez simplement ce lien : [https://2238383009561.gumroad.com/l/larchitecturelogiciel](https://2238383009561.gumroad.com/l/larchitecturelogiciel) .
+Pour acheter votre exemplaire dès maintenant et plonger dans l'univers de l'architecture logicielle, suivez simplement ce lien avec code promo **<mark>97qkxja</mark>** : [https://alaolawal.gumroad.com/l/larchitecturelogiciel](https://alaolawal.gumroad.com/l/larchitecturelogiciel)
 
 J'espère que ce livre vous aidera à éclaircir les mystères de l'architecture logicielle tout en stimulant votre passion pour le codage.
 
@@ -49,7 +49,7 @@ N'oubliez pas que l'apprentissage est un voyage continu. Mon engagement envers c
 
 Je vous encourage à plonger dans les pages de "Architecture Logicielle" et à explorer les concepts qui vous intriguent. Que ce livre soit un tremplin vers de nouvelles opportunités, une ressource précieuse pour résoudre des problèmes complexes ou simplement une source d'inspiration pour votre parcours de développement logiciel, je suis honoré de vous accompagner dans cette aventure.
 
-Alors, qu'attendez-vous ? Obtenez votre exemplaire dès maintenant en suivant ce [https://2238383009561.gumroad.com/l/larchitecturelogiciel](https://2238383009561.gumroad.com/l/larchitecturelogiciel).
+Alors, qu'attendez-vous ? Obtenez votre exemplaire dès maintenant en suivant ce [https://alaolawal.gumroad.com/l/larchitecturelogiciel](https://alaolawal.gumroad.com/l/larchitecturelogiciel)
 
 Merci d'avoir choisi de m'accompagner dans cette exploration de l'architecture logicielle. Je suis impatient de connaître vos réflexions, vos réalisations et vos découvertes à mesure que vous avancez dans votre propre voyage.
 
